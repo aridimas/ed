@@ -5,7 +5,8 @@ author: Ppt
 editor: Ari Dimas
 ---
 
-- Pukul dua pagi aku mendengar pertengkaran dua kucing serasi,
+- Pukul dua pagi aku mendengar pertengkaran 
+  dua kucing serasi,
 - sudah coba kulerai,
 - namun tidak mahu dilerai.
 - Pukul tiga pagi aku tidak lagi mendengar pertengkaran dua kucing serasi,
