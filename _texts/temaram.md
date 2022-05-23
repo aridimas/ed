@@ -3,7 +3,6 @@ layout: poem
 title: Temaram
 author: Ppt
 editor: Ari Dimas
-Source:ppt imagination
 ---
 
 - Beri aku terang
