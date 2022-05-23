@@ -1,7 +1,7 @@
 ---
 layout: poem
 title: Berderai
-author: Putri Novianti
+author: Ppt
 editor: Ari Dimas
 ---
 
