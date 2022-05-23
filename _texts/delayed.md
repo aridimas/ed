@@ -1,30 +1,14 @@
 ---
 layout: poem
-title: Delayed till she had ceased to know
-author: Emily Dickinson
-editor: Alex Gil
-source: "Bartleby.com"
+title: Puisi Di Kota Jogja
+author: Ppt
+editor: Ari Dimas
+
 ---
 
-- DELAYED till she had ceased to know,
-- Delayed till in its vest of snow
-- {:.indent-2}Her loving bosom lay.
-- An hour behind the fleeting breath,
-- Later by just an hour than death,—
-- {:.indent-2}Oh, lagging yesterday!
+- Gerimis di sudut kota jogja, 
+- Kurasa sudah lama tidak menulis puisi disaat gerimis begini 
 
+- Hujan panas, iya, di tempat asal ku menyebutnya hujan panas, hujan tapi mentari enggan beranjak. Ah tidak, bisa jadi awan-awan itu tidak cukup banyak untuk menutupi mentari, atau sinar mentari kali ini terlalu kuat untuk sekadar ditutupi segumpal awan putih (?), sudahlah. 
 
-- Could she have guessed that it would be;
-- Could but a crier of the glee	
-- {:.indent-2}Have climbed the distant hill;
-- Had not the bliss so slow a pace,—
-- Who knows but this surrendered face
-- {:.indent-2}Were undefeated still?
-
-
-- Oh, if there may departing be
-- Any forgot by victory
-- {:.indent-2}In her imperial round,
-- Show them this meek apparelled thing,
-- That could not stop to be a king,
-- {:.indent-2}Doubtful if it be crowned!
+- Aku selalu suka hujan, aroma tanah yang perlahan basah, namun bukan berarti setiap hujan aku akan keluar rumah menari-nari seperti di sinetron terus basah kuyup di bawah guyuran hujan. Aku bukan Bob Marley yang berkata seperti ini "You say you love rain, but you use an umbrella to walk under it". Tidak juga setiap hujan aku akan menulis sajak demi sajak, ditemani kopi hitam bersama alunan lagu rindu. Pada umumnya yang kulakukan pada saat hujan, ya tidur kalo lagi di rumah, kalo lagi di luar ya melamun, mikirin uang bulanan yang sudah habis padahal baru pertengahan bulan. Bukankah cukup umum? Puisinya mana? Tidak ada, tidak ada kenangan yang ku ingat, ah iya hanya kenangan masa kecilku disaat main hujan di lapangan, aku dan teman-temanku dikejar kilat yang disertai guntur, entah benar-benar dikejar atau kami yang merasa dikejar. 
