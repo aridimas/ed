@@ -1,7 +1,6 @@
 ---
 layout: default
-title: poem
-author: Putri Novianti
+title: "Poems."
 ---
 
 <div class="toc">
