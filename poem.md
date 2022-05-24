@@ -6,7 +6,7 @@ author: putri novianti
 
 <div class="toc">
   <h2>Daftar Puisi</h2>
-  <ul class="puisi">
+  <ul class="poem">
   {% for item in site.puisi %}
 
     <li class="text-title">
