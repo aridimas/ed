@@ -9,7 +9,7 @@ author: putri novianti
   <ul class="poem">
   {% for item in site.puisi %}
 
-    <li class="text-title">
+    <li>
       <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
       </a>
