@@ -1,12 +1,13 @@
 ---
 layout: default
 title: "Poems."
+author: putri novianti
 ---
 
 <div class="toc">
-  <h1>Daftar Puisi</h1>
+  <h2>Daftar Puisi</h2>
   <ul class="puisi">
-  {% for item in site.puisi %}
+  {% for item in site._puisi %}
 
     <li class="text-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
