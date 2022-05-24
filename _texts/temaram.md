@@ -9,7 +9,7 @@ editor: Ari Dimas
 - Untuk tidak lagi bersarang
 - Pada kata "Pulang"
 - Pada rasa "Sayang"
-- 
+- <br>
 - Beri aku pilu
 - Untuk tidak lagi bercumbu
 - Pada kata "Tunggu"
