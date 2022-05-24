@@ -7,7 +7,7 @@ author: putri novianti
 <div class="toc">
   <h2>Daftar Puisi</h2>
   <ul class="puisi">
-  {% for item in site._puisi %}
+  {% for item in site.puisi %}
 
     <li class="text-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
