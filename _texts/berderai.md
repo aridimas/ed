@@ -1,5 +1,5 @@
 ---
-layout: cerita
+layout: poem
 title: Berderai
 author: Ppt
 editor: Ari Dimas
