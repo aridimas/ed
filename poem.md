@@ -5,8 +5,8 @@ author: Putri Novianti
 ---
 
 <div class="toc">
-  <h2>Daftar Puisi</h2>
-  <ul class="texts">
+  <h1>Daftar Puisi</h1>
+  <ul class="puisi">
   {% for item in site.puisi %}
 
     <li class="text-title">
