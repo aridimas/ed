@@ -6,7 +6,7 @@ editor: Ari Dimas
 source: Ppt imagination
 ---
 
-Kau sebut itu sebuah janji, 
+Kau sebut itu sebuah janji, <br>
 Yang pernah kau ucap di sebuah kedai kopi. 
 "Kejadian di hari ini, tidak akan terjadi lagi"
 "Aku janji"
